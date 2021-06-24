@@ -1,0 +1,10 @@
+Board
+Display Board
+Play Game --> display board, decide 1st user, take input, fill the input, change to 2nd Player repeat
+Handle Turn --> Taking Valid Input
+Check Win
+    Check rows
+    Check Columns
+    Check Diagonals
+Check Tie
+Flip Player (X --> O)
